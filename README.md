@@ -4,7 +4,7 @@ It doesn't - my repositories are just set to private.
 
 I work on projects that involve proprietary code, internal tooling, and infrastructure that isn't suitable for public exposure. As a result, most of my work lives in private repos.
 
-If you'd like to see examples of my work, I'm happy to walk through projects in a conversation or provide access on request.
+If you'd like to see examples of my work, I'm happy to walk through projects in a conversation.
 
 From my most active private repo I have added 152,051 lines in the first 3 months of 2026.
 
